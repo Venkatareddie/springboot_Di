@@ -13,5 +13,10 @@ int m=4;
 int n=2;
 int o=m-n;
 System.out.println(o);
+System.out.print("Output generated successfully...yes....");
+System.out.print("Rami Reddy");
+SYstem.out.println("Sujatha");
+System.out.println("Venkat");
+System.out.println("Swathi");
 }
 }
