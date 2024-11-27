@@ -18,5 +18,8 @@ System.out.print("Rami Reddy");
 SYstem.out.println("Sujatha");
 System.out.println("Venkat");
 System.out.println("Swathi");
+  public void m1()
+    {
+    //logic here
 }
 }
