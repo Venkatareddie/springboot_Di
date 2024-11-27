@@ -10,7 +10,9 @@
 	</parent>
 	<groupId>in.venkat</groupId>
 	<artifactId>SpringBoot_DI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+
+	<version>Snapshot-1.0</version>
+
 	<name>SpringBoot_DI</name>
 	<description>Spring boot DI Examples</description>
 	<url/>
